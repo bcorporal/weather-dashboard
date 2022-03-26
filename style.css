@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+.row {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+   
+  
+
+}
+
+.card {
+    background-color: black;
+    border: 10px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container-custom {
+    margin-left: 2rem;
+    align-items: center;
+}
